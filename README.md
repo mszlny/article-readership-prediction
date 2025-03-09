@@ -6,8 +6,8 @@ Dataset Description
 The training data was scraped from a real news portal’s admin panel, so it is not publicly available. However, I have attached a sample Excel file that shows the dataset structure.
 
 The columns in the dataset:
-  •	Date – Publication date of the article.
-  •	Title – Article title.
+•	Date – Publication date of the article.
+•	Title – Article title.
   •	URL – Link to the article.
   •	AI-generated? – Whether the article was written by AI or not.
   •	Stat – Number of clicks (readership count).
