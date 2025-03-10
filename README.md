@@ -34,6 +34,6 @@ The model is specifically trained on this news portal’s data. To make a predic
 **IMPORTANT!**
 This project is an experimental hobby project. The model’s predictions are currently imprecise and require further refinement. However, predicting readership is inherently challenging, as it is largely influenced by external factors such as Google and Facebook algorithms, which determine article visibility.
 
-**It is also important that the 'preprocess_article' function does not work because I did not upload the trained vectorizer.**
+**It is also important that the 'preprocess_article' function does not work because I did not upload the trained vectorizer. Since this is a hobby project, I have uploaded the trained model as a .rar file. My dataset is private and my model is highly specialized, so there’s no need to worry about making the code fully reusable.**
 
 Feel free to explore the code! Feedback is always welcome. 😊
