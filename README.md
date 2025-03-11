@@ -1,6 +1,6 @@
 **Article Readership Prediction Model**
 
-This project predicts the number of clicks (readership) an article title will generate, based on real-world data from a news portal.
+This project predicts the number of clicks (readership) an article title will generate, based on real-world data from a Hungarian news portal.
 
 **Dataset Description**
 
