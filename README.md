@@ -36,4 +36,6 @@ This project is an experimental hobby project. The model’s predictions are cur
 
 **It is also important that the 'preprocess_article' function does not work because I did not upload the trained vectorizer. Since this is a hobby project, I have uploaded the trained model as a .rar file. My dataset is private and my model is highly specialized, so there’s no need to worry about making the code fully reusable.**
 
+The running application is available via [this link](url).
+
 Feel free to explore the code! Feedback is always welcome. 😊
